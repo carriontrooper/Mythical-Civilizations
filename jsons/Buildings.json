@@ -1,0 +1,14 @@
+[
+	{
+	"name": "Dracula Castle",
+	"replaces": "Castle",
+	"uniqueTo": "Vampires",
+	"cityStrength": 7,
+	"cityHealth": 25,
+	"maintenance": 1,
+	"requiredBuilding": "Walls",
+	"requiredTech": "Chivalry",
+	"uniques": ["[+33]% Production when constructing [all] units [in this city]",
+	"Destroyed when the city is captured"]
+	}
+]

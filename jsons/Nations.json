@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Vampires",
+		"leaderName": "Count Dracula",
+		"adjective": ["Vampire"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "O' Great and Timeless Count Dracula! You who lived over centuries, discovered the secrets of dark magic, formed many pacts with the Devil himself, and inspired an entire generation with your vampire abilities, as you prepared your plan to dominate the entire world, altough you sucessfully infiltrated England, and altough you fed on Lucy on small intervals as not to trigger attention, they eventually had the doctor Van Helsing try to treat her and he, deducing the presences of the supernatural, went after your followers, destroyed your land, and killed you before your plan could be completed.",
+		"startIntroPart2": "But the soils of time have awaken you once more, and they call you to bring the timeless vampires to new heights and succeed where you once failed: Can you feast upon your enemies, dominate their lands and stand the test of time?",					
+		
+		"declaringWar": "War will be inevitable, I have an urge for blood.",
+		"attacked": "I am different from most, you might regret this.",
+		"defeated": "Congratulations, but altough you have won, time will claim your soul.",
+		"introduction": "Hello, it is great to find a companion.",
+		"neutralHello": "Do you have a request for me?",		
+		"neutralLetsHearIt": ["Is that it?","Understandable"],
+		"neutralNo": ["I cannot concede.","I pass."],
+		"neutralYes": ["Most reasonable","Yes"],
+		"hateHello": "I will drink upon your blood.",	
+		"hateLetsHearIt": ["You are lucky I haven't fed upon you yet.","Hmm?"],
+		"hateNo": ["I cannot concede.","I pass."],
+		"hateYes": ["This will buy you time, however short it might be"],
+		"afterPeace": "I'm not done withyou yet.",
+		"tradeRequest": "I believe this to be a fair deal.",
+
+		"outerColor": [80,80,80],
+		"innerColor": [170,170,170],
+		"uniqueName": "Vampirism",
+		"uniqueText": "Units heal every turn even if they perform an action, but are more expensive to produce and much weaker on Desert Tiles."
+		"uniques": ["[All] units gain the [Vampiric] promotion",
+		"[-23]% Production when constructing [all] units [in all cities]"]
+		"cities": ["Transylvania","Pennsylvania","Forks","Exeter","Whitby","Pisco","Pontianak","Prague","Cachtice","Sofia"]
+	}
+]

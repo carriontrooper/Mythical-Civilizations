@@ -1,0 +1,10 @@
+[
+    {
+		"name": "Vampiric",
+		"uniques": ["Unit will heal every turn, even if it performs an action","[-50]% Strength in [Desert]"]
+	},
+	{
+		"name": "Vampire Conversion",
+		"uniques": ["Heals [33] damage if it kills a unit","May capture killed [All] units"]
+	},
+]
