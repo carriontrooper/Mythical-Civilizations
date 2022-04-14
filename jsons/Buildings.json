@@ -8,7 +8,7 @@
 	"maintenance": 1,
 	"requiredBuilding": "Walls",
 	"requiredTech": "Chivalry",
-	"uniques": ["[+33]% Production when constructing [all] units [in this city]",
+	"uniques": ["[+33]% Production when constructing [All] units [in this city]",
 	"Destroyed when the city is captured"]
 	}
 ]
