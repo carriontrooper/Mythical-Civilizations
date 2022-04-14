@@ -29,7 +29,7 @@
 		"uniqueName": "Vampirism",
 		"uniqueText": "Units heal every turn even if they perform an action, but are more expensive to produce and much weaker on Desert Tiles."
 		"uniques": ["[All] units gain the [Vampiric] promotion",
-		"[-33]% Production when constructing [all] units [in all cities]"]
+		"[-33]% Production when constructing [All] units [in all cities]"]
 		"cities": ["Transylvania","Pennsylvania","Forks","Exeter","Whitby","Pisco","Pontianak","Prague","Cachtice","Sofia"]
 	}
 ]
