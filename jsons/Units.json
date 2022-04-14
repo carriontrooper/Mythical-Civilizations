@@ -5,6 +5,7 @@
 		"uniqueTo": "Vampires",
 		"replaces": "Musketman",
 		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
 		"movement": 2,
 		"strength": 25,
 		"cost": 150,
