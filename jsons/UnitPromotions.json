@@ -1,7 +1,7 @@
 [
     {
 		"name": "Vampiric",
-		"uniques": ["Unit will heal every turn, even if it performs an action","[-50]% Strength in [Desert] tiles"]
+		"uniques": ["Unit will heal every turn, even if it performs an action","[-50]% Strength <when fighting in [Desert] tiles>"]
 	},
 	{
 		"name": "Vampire Conversion",
