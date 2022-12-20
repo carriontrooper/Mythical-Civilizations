@@ -51,7 +51,7 @@
 		"strength": 25,
 		"cost": 150,
 		"obsoleteTech": "Rifling"
-		"uniques" : ["[+50]% Strength in [Desert]"],
+		"uniques" : ["[+50]% Strength <in [Desert] tiles>"],
 		"promotions": ["Vampire Conversion"],
 		"attackSound": "nonmetalhit",
 		"civilopediaText":[{text:"Daywalkers are immune to the sunlight weakness while still retaining most of their strengths."}]
@@ -173,7 +173,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Atlantis",
 		"replaces": "Great Prophet",
-		"uniques": ["Can construct [Holy site] if it hasn't used other actions yet","Can construct [Sea Holy site] if it hasn't used other actions yet","Can [Spread Religion] [4] times",
+		"uniques": ["Can construct [Holy site] <if it hasn't used other actions yet>","Can construct [Sea Holy site] <if it hasn't used other actions yet>","Can [Spread Religion] [4] times",
 			"Removes other religions when spreading religion", "May found a religion", "May enhance a religion", 
 			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]", 
 			"Unbuildable", "Religious Unit", "Hidden when religion is disabled", 
